@@ -59,8 +59,8 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 
 ## PROGRAM :
 
-## DEVELOPED BY : Abheek.A
-## REG NO : 212224100001
+## DEVELOPED BY : Pragadeesh S
+## REG NO : 212224220073
 
 ## PLAYER CONTROL :
 
